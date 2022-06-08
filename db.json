@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jai Bhagwan",
+      "rollno": "877675"
+    },
+    {
+      "id": 4,
+      "name": "Ram Lal Singh",
+      "rollno": "09989"
+    },
+    {
+      "name": "Ritik Chauhan",
+      "rollno": "222222222",
+      "id": 6
+    },
+    {
+      "name": "Rakesh Khanna",
+      "rollno": "1234",
+      "id": 9
+    },
+    {
+      "id": 8,
+      "name": "aeffreree",
+      "rollno": "553"
+    }
+  ]
+}
